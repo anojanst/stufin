@@ -1,0 +1,110 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.booking-search {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    padding: 20px;
+}
+
+select {
+    width: 100% !important;
+}
+
+.dark {
+    color: #0c2b4b !important;
+}
+
+.mt-6,
+.my-6 {
+    margin-top: 5rem;
+}
+
+.mb-6,
+.my-6 {
+    margin-bottom: 5rem;
+}
+
+.mt-7,
+.my-7 {
+    margin-top: 7.5rem;
+}
+
+.mb-7,
+.my-7 {
+    margin-bottom: 7.5rem;
+}
+
+.serviceBox {
+    text-align: center;
+    background-color: #212529;
+    color: #fff;
+    padding: 30px 10px;
+    min-height: 230px;
+    box-sizing: border-box;
+}
+
+.serviceBox h5,
+.serviceBox h6,
+.serviceBox p {
+    color: #fff;
+}
+
+.serviceBox h5 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.serviceBox h6 {
+    font-size: 16px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.serviceBox p {
+    font-size: 12px;
+    margin: 0px;
+}
+
+.addServiceBox {
+    text-align: center;
+    background-color: #00baf3;
+    color: #000;
+    padding: 70px 10px;
+    box-sizing: border-box;
+}
+
+.addServiceBox li {
+    color: #000 !important;
+}
+
+.addServiceBox a {
+    color: #000 !important;
+}
+
+input[type="checkbox"] {
+    height: 10px !important;
+    width: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+input[type="radio"] {
+    height: 20px !important;
+    width: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.primary-btn-sm {
+    padding: 10px 5px !important;
+    margin: 2px;
+}
+
+.new_a {
+    color: #00baf3;
+    text-decoration: none;
+}
+
+.new_a:hover {
+    color: #0c2b4b;
+}
